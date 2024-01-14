@@ -420,10 +420,10 @@ ol {
   display: flex;
   align-items: baseline;
   gap: 120px;
+}
+.footer-section {
   margin-right: 120px;
 }
-
-/* display: flex; */
 
 .footer {
   background-color: #2e2f42;
@@ -445,11 +445,6 @@ ol {
   letter-spacing: 0.02em;
   max-width: 264px;
 }
-
-/* .footer-soc-container {
-  display: flex;
-  align-items: center;
-} */
 
 .footer-media {
   color: #fff;
@@ -473,7 +468,6 @@ ol {
   border-radius: 50%;
   align-items: center;
   justify-content: center;
-  /* margin-top: 8px; */
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
