@@ -363,6 +363,8 @@ ol {
   position: relative;
   overflow: hidden;
 }
+.portfolio-menu {
+}
 
 .portfolio-menu {
   width: calc((100% - 48px) / 3);
@@ -383,7 +385,7 @@ ol {
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.portfolio-content:hover .portfolio-text {
+.portfolio-menu:hover .portfolio-text {
   transform: translateY(0);
 }
 
